@@ -8,7 +8,7 @@
 
 
 --  YTChannel::name >> "Carlisle Delos Reyes";
--also i do gaming🎮
+- also i do gaming🎮
 
 <This is my special and first README.md file>
 
